@@ -1,1 +1,1 @@
-### ACID-E: Smart PHP IDE
+### Laravel & React Boilerplate
